@@ -6,7 +6,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 44320
+          "Port": 49157
         }
       ],
       "UpstreamPathTemplate": "/gateway/carros",
